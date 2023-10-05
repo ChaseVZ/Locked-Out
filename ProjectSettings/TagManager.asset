@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Moveable
+  - Rotateable
+  - Fixed
+  - DoorLED
+  - Level1 Manager
+  - ColorToggle
+  - WhiteLightReveal
+  - RedKeyCard
+  - BlueKeyCard
+  - YellowKeyCard
+  - GreenKeyCard
+  - Button
+  - BlackKeyCard
+  - Move-tag
+  - LockDoor
+  - Teleport
+  - GameManager
+  - PuzzleRoom
+  - CardLock
+  - FlashlightWhite
+  - FlashlightRed
+  - Condition
+  - Handle
+  - Default
+  - LampButton
+  - ButtonDoor
+  - Twistable
+  - ButtonUI
+  - Block
+  - CardLockUI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Pushable
+  - PostProcessing
+  - Flashlight
+  - IgnoreFlashlight
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
